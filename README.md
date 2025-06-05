@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 2: Departments
 - Item 3: Teams
 - Item 4 Agents(workers) and Users(customers)
-- Item 5: SLAs and Hot topics
+- Item 5: SLAs and Help topics
 
  Items 1-5 Should be in the osTickets site. 
 
@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/XrcYXDl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The roles are the accessiblity that an agent of osTicket will have at their position of the job. One person can have all access/supreme admin that kind of poeple can have all the permission like creating a ticket on behalf of the user. Instead the view only people can just view the ticket.
+The roles are the accessiblity that an agent of osTicket will have at their position of the job. One person can have all access/supreme admin that kind of poeple can have all the permission like creating a ticket on behalf of the user. Instead the view only people can just view the ticket. In order to locate it you want to go in the osticket ->admin pane -> agents-> roles. 
 </p>
 <br />
 
